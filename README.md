@@ -11,6 +11,10 @@ Description: It's an online educational platform where you can learn various thi
 
 Skills Used: HTML, CSS, Bootstrap
 
+### [Commercial Realestate Page ](https://github.com/hasinaakter/Simple-commercial-page))
+Description: It's an online Online real estate ecommerce platform where you can reant a house and buy a flat/apartment you want. Here you can get ideas from given informations and locations. 
+Skills Used: HTML, CSS, slice Slider, JavaScript, Bootstrap, Jquery
+
 ### [Download App](https://github.com/hasinaakter/download-app)
 Description:  Demo app where you can find all kinds of service. 
 Skills Used: HTML, CSS, Owl Carusol, JavaScript, Bootstrap, Jquery
@@ -18,14 +22,14 @@ Skills Used: HTML, CSS, Owl Carusol, JavaScript, Bootstrap, Jquery
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile]([(https://www.linkedin.com/in/hasina-akter2421/))
+- LinkedIn: ((https://www.linkedin.com/in/hasina-akter2421/))
 - Portfolio: [Your Portfolio Website](link_to_portfolio)
 - Email: hasina.cse1@gmail.com
 - Facebook: [(https://www.facebook.com/hasuu.islam.9)]
 
 Feel free to reach out to discuss collaboration opportunities or if you have any questions!
 
-<!--
+
 **hasinaakter/hasinaakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'm availabe on linkedin, Email, Whatsapp(01786358795).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+
