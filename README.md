@@ -28,10 +28,6 @@ Skills Used: HTML, CSS, Owl Carusol, JavaScript, Bootstrap, Jquery
 - Facebook: [(https://www.facebook.com/hasuu.islam.9)]
 
 Feel free to reach out to discuss collaboration opportunities or if you have any questions!
-
-
-**hasinaakter/hasinaakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a "Her Power Project"
