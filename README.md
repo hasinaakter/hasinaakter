@@ -6,59 +6,36 @@ Welcome to my GitHub repository! I'm a frontend developer with expertise in HTML
 
 ## Projects
 
+### [Education Hunt](https://github.com/hasinaakter/Education-hunt)
+Description: It's an online educational platform where you can learn various things and buy a course you want. Here you can get ideas from students' feedback and decide. 
+
+Skills Used: HTML, CSS, Bootstrap
+
 ### [Download App](https://github.com/hasinaakter/download-app)
-Description: Brief description of the project.
+Description:  Demo app where you can find all kinds of service. 
+Skills Used: HTML, CSS, Owl Carusol, JavaScript, Bootstrap, Jquery
 
-Skills Used: HTML, CSS, JavaScript, Bootstrap
-
-### [Project Name 2](link_to_project_repo)
-Description: Brief description of the project.
-
-Skills Used: HTML, CSS, JavaScript, React, MongoDB
-
-### [Project Name 3](link_to_project_repo)
-Description: Brief description of the project.
-
-Skills Used: HTML, CSS, JavaScript, Tailwind CSS, Firebase
-
-## Contributions
-
-### [Contribution Name 1](link_to_contribution)
-Description: Brief description of the contribution.
-
-Skills Used: React, MongoDB
-
-### [Contribution Name 2](link_to_contribution)
-Description: Brief description of the contribution.
-
-Skills Used: HTML, CSS, JavaScript, Bootstrap
-
-### [Contribution Name 3](link_to_contribution)
-Description: Brief description of the contribution.
-
-Skills Used: React, Firebase
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
+- LinkedIn: [Your LinkedIn Profile]([(https://www.linkedin.com/in/hasina-akter2421/))
 - Portfolio: [Your Portfolio Website](link_to_portfolio)
-- Email: your.email@example.com
-- Twitter: [@your_twitter_handle](link_to_twitter)
+- Email: hasina.cse1@gmail.com
+- Facebook: [(https://www.facebook.com/hasuu.islam.9)]
 
 Feel free to reach out to discuss collaboration opportunities or if you have any questions!
-
 
 <!--
 **hasinaakter/hasinaakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on a "Her Power Project"
+- 🌱 I’m currently learning leadership Program at Aspire Institute 
+- 👯 I’m looking to collaborate on a team where I can start my new journey.
+- 🤔 I’m looking for help with learning various things like software engineering, software development, ML, NLP.
+- 💬 Ask me about what are you interested to know.
+- 📫 How to reach me: I'm availabe on linkedin, Email, Whatsapp(01786358795).
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
