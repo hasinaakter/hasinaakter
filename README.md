@@ -6,14 +6,16 @@ Welcome to my GitHub repository! I'm a frontend developer with expertise in HTML
 
 ## Projects
 
+### [Commercial Realestate Page ](https://github.com/hasinaakter/Simple-commercial-page))
+Description: It's an online Online real estate ecommerce platform where you can reant a house and buy a flat/apartment you want. Here you can get ideas from given informations and locations. 
+Skills Used: HTML, CSS, slice Slider, JavaScript, Bootstrap, Jquery
+
 ### [Education Hunt](https://github.com/hasinaakter/Education-hunt)
 Description: It's an online educational platform where you can learn various things and buy a course you want. Here you can get ideas from students' feedback and decide. 
 
 Skills Used: HTML, CSS, Bootstrap
 
-### [Commercial Realestate Page ](https://github.com/hasinaakter/Simple-commercial-page))
-Description: It's an online Online real estate ecommerce platform where you can reant a house and buy a flat/apartment you want. Here you can get ideas from given informations and locations. 
-Skills Used: HTML, CSS, slice Slider, JavaScript, Bootstrap, Jquery
+
 
 ### [Download App](https://github.com/hasinaakter/download-app)
 Description:  Demo app where you can find all kinds of service. 
